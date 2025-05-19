@@ -12,5 +12,5 @@ This machine learning project helps farmers decide which crop to plant based on 
 - Saves model as `crop_model.pkl`
 - Interactive app to enter soil metrics and get a crop recommendation
 
- [Try the App Live](https://soil-crop.streamlit.app)
+ [Try the App Live](https://soil-crop-predictor.streamlit.app/)
 
